@@ -1,6 +1,7 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript, APIs com NodeJs, JTW, Pascal com Delphi.
+- 🌱 Atualmente estou aprendendo JavaScript, APIs com NodeJs, JTW, Pascal com Delphi, Python, C#.
+- :woman_technologist: Programador JR
   
 - ## Ferramentas e Tecnologias Utilizadas
 
