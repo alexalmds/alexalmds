@@ -1,7 +1,8 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Atualmente estou aprendendo JavaScript, APIs com NodeJs, JTW, Pascal com Delphi, Python, C#.
-- :woman_technologist: Programador JR
+- 🌱 Especialidades: Delphi, C#, C++, JavaScript, HTML5, CSS3, NodeJs, React Native, PHP, Laravel.
+- Banco de dados: Firebird 3.0, MySql, MariaDB, Morningstar 3.5
+- :woman_technologist: Programador PL
   
 - ## Ferramentas e Tecnologias Utilizadas
 
