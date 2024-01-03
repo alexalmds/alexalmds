@@ -1,6 +1,6 @@
 ## Bem vindo ao meu perfil GitHub 👋
 
-- 🌱 Especialidades: Delphi, Python, C#, C++, JavaScript, HTML5, CSS3, NodeJs, React Native, PHP, Laravel.
+- 🌱 Especialidades: Delphi, Python, C#, C++, TypeScript, JavaScript, HTML5, CSS3, NodeJs, React Native, PHP, Laravel.
 - Banco de dados: Firebird 3.0, MySql, MariaDB, Morningstar 3.5
 - :woman_technologist: Programador PL
   
